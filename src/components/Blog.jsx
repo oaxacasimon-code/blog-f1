@@ -149,7 +149,7 @@ function Blog() {
                 className="btn-danger"
                 onClick={() => deletePost(post.id)}
               >
-                Eliminar
+                Eliminar post
               </button>
             </article>
           ))
