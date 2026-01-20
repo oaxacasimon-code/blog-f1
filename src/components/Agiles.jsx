@@ -18,7 +18,7 @@ export default function BlogInstagram() {
 
       {/* BLOQUE 1 */}
       <section>
-        <h2>Jira Y Tipos de Metodologias</h2>
+        <h2>Jira</h2>
         <p>
           Jira es una de las herramientas ágiles más usadas en el desarrollo de software.<br></br>
           Se utiliza principalmente para trabajar con Scrum y Kanban.
@@ -27,6 +27,10 @@ export default function BlogInstagram() {
           Esto ayuda a ver qué se está haciendo y qué falta por terminar.
           Por eso es muy popular en equipos profesionales.
           <br></br>
+        </p>
+        
+        <h2>Tipos de Metodologias</h2>
+        <p>
           “En tecnología usamos metodologías para organizar proyectos. Las más conocidas son las ágiles y las tradicionales. Las ágiles, como Scrum, funcionan por etapas cortas donde vas mejorando sobre la marcha. Son perfectas cuando el proyecto cambia mucho. <br></br>
           Las tradicionales siguen un plan fijo paso por paso, y funcionan mejor cuando ya sabes exactamente qué vas a construir. No hay una mejor o peor: cada una sirve según el tipo de proyecto que tengas.”
         </p>
@@ -49,11 +53,15 @@ export default function BlogInstagram() {
 
       {/* BLOQUE 2 */}
       <section>
-        <h2>¿Qué es una Metodología? y ¿Qué es Kanban?</h2>
+        <h2>¿Qué es una Metodología?</h2>
         <p>
           “Una metodología es básicamente la forma en la que organizas tu proyecto para que todos sepan qué hacer. Define pasos, tiempos, roles y cómo se avanza. <br></br>
           Sin metodología, cada quien trabaja por su lado y se vuelve un caos. En programación ayuda muchísimo porque te mantiene ordenado, te permite medir tu progreso y facilita que tu equipo entienda lo que está pasando. No es solo teoría: te ayuda a trabajar mejor y más rápido.”
           <br></br>
+        </p>
+        
+        <h2>¿Qué es Kanban?</h2>
+        <p>
           Kanban es una metodología ágil enfocada en la organización visual del trabajo.
           Se utiliza un tablero con columnas que muestran el estado de cada tarea.
           Esto permite identificar problemas y retrasos fácilmente.<br></br>
@@ -80,7 +88,7 @@ export default function BlogInstagram() {
 
       {/* BLOQUE 3 */}
       <section>
-        <h2>¿Qué es XP? y ¿Qué son los Diagramas de Flujo?</h2>
+        <h2>¿Qué es XP?</h2>
         <p>
           Extreme Programming, también conocida como XP, se enfoca en la calidad del software.
           Promueve prácticas como pruebas frecuentes y programación en pareja.
@@ -89,6 +97,10 @@ export default function BlogInstagram() {
           Su principal objetivo es reducir errores.
           Así se logra un software más confiable.
           <br></br>
+        </p>
+          
+        <h2>¿Qué son los Diagramas de Flujo?</h2>
+        <p>
           “Un diagrama de flujo es una herramienta visual que te ayuda a entender qué va a hacer tu programa antes de escribir una sola línea de código. Dibujas paso por paso lo que debe pasar: si esto ocurre, <br></br>
           entonces haz esto otro. Es perfecto para evitar errores y aclarar ideas. Cuando empiezas a programar, te ayuda muchísimo a planear y resolver problemas sin atorarte. Es como tener un mapa antes de entrar al código.”
         </p>
